@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sathiyaraman
+- 👋 Hi, I’m @Sathiyaraman-M
 - 👀 I’m interested in .NET Core App development
 - 🌱 I’m currently learning Blazor and ASP.NET Core MVC
 - 💞️ I’m looking to collaborate on some good projects that yield me great deal of knowledge
