@@ -2,8 +2,7 @@
 
 My name is Sathiyaraman M and I'm a Computer Science Engineering student. I'm from India, living in Chennai and currently pursuing Computer Science and Engineering in RMK Engineering College, Tamil Nadu, India. 
 
-I am a great .NET enthusiast and spend my time tinkering with ASP.NET Core and Blazor. Now I am looking forward to learn Javascript and React for quick frontend development.
-
+I am a great .NET enthusiast and spend my time tinkering with ASP.NET Core and Blazor. Now I am learning .NET MAUI and looking forward to create some exciting Line-of-Business applications to increase my experience.
 <a href="https://github.com/Sathiyaraman-M/Sathiyaraman-M">
   <img src="https://github-readme-stats.vercel.app/api?username=Sathiyaraman-M&show_icons=true&line_height=27" align="center">
 </a>
