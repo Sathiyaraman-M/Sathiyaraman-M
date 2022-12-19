@@ -14,6 +14,7 @@ I am a great .NET enthusiast and spend most of my time doing projects with ASP.N
 - F#
 - Python
 - XAML
+- YAML
 - HTML
 - CSS
 
@@ -37,15 +38,16 @@ I am a great .NET enthusiast and spend most of my time doing projects with ASP.N
 - Arch Linux
 - Android Studio
 - Azure Pipelines
-- Discord
+- Docker
 - Firebase Hosting
 - Git
-- GitHub Desktop
 - GitHub Actions
 - IIS
+- IntelliJ IDEA
 - Jetbrains Rider
-- Notion
+- Oracle VM VirtualBox
 - Postman
+- SQL Server Management Studio
 - Visual Studio
 - Visual Studio Code
 - WebStorm
