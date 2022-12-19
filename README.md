@@ -16,7 +16,7 @@ I am a great .NET enthusiast and spend most of my time doing projects with ASP.N
 
 ### Frameworks I Know
 - ASP.NET Core (MVC, API, Razor Pages)
-- Blazor
+- Blazor (Server/WebAssembly)
 - Angular
 - React
 - Flutter
