@@ -2,13 +2,24 @@
 
 My name is Sathiyaraman M and I'm a Computer Science Engineering student. I'm from India, living in Chennai and currently pursuing Computer Science and Engineering in RMK Engineering College, Tamil Nadu, India. 
 
-I am a great .NET enthusiast and spend my time tinkering with ASP.NET Core and Blazor. Now I am learning .NET MAUI and looking forward to create some exciting Line-of-Business applications to increase my experience.
-<a href="https://github.com/Sathiyaraman-M/Sathiyaraman-M">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathiyaraman-M&show_icons=true&line_height=27" align="center">
-</a>
-<a href="https://github.com/Sathiyaraman-M/Sathiyaraman-M">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiyaraman-M&langs_count=3" align="center">
-</a>
+I am a great .NET enthusiast and spend most of my time doing projects with ASP.NET Core and Blazor as I am intending to get into Full-Stack Web Development. Just getting my hands dirty by getting into the Javascript world through React and Angular.
+
+### Languages I Know
+- C#
+- JavaScript
+- TypeScript
+- C
+- C++
+- Java
+- F#
+- Python
+
+### Frameworks I Know
+- ASP.NET Core (MVC, API, Razor Pages)
+- Blazor
+- Angular
+- React
+- Flutter
 
 <!---
 Sathiyaraman/Sathiyaraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
