@@ -4,7 +4,7 @@ My name is Sathiyaraman M and I'm a Computer Science Engineering student. I'm fr
 
 I am a great .NET enthusiast and spend most of my time doing projects with ASP.NET Core and Blazor as I am intending to get into Full-Stack Web Development. Just getting my hands dirty by getting into the Javascript world through React and Angular.
 
-### Languages I Know
+### Languages I have worked
 - C#
 - JavaScript
 - TypeScript
@@ -13,13 +13,43 @@ I am a great .NET enthusiast and spend most of my time doing projects with ASP.N
 - Java
 - F#
 - Python
+- XAML
+- HTML
+- CSS
 
-### Frameworks I Know
+### Frameworks I have worked
 - ASP.NET Core (MVC, API, Razor Pages)
 - Blazor (Server/WebAssembly)
 - Angular
 - React
+- Windows Forms
+- Windows Presentation Foundation (WPF)
+- WinUI (Both WinUI2 and WinUI3)
 - Flutter
+
+### Databases I have worked
+- SQL Server
+- MySQL
+- PostgreSQL
+- Sqlite
+
+### Software and Tools I have worked
+- Arch Linux
+- Android Studio
+- Azure Pipelines
+- Discord
+- Firebase Hosting
+- Git
+- GitHub Desktop
+- GitHub Actions
+- IIS
+- Jetbrains Rider
+- Notion
+- Postman
+- Visual Studio
+- Visual Studio Code
+- WebStorm
+- Windows Subsystem for Linux
 
 <!---
 Sathiyaraman/Sathiyaraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
