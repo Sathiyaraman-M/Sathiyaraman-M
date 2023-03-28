@@ -9,42 +9,29 @@ I see myself as an ambitious, flamboyant, impulsive kid who is very much in love
 
 Other languages include F#, XAML, YAML
 
-### Frameworks I have worked
-- ASP.NET Core (MVC, API, Razor Pages)
-- Blazor (Server/WebAssembly)
-- Angular
-- React
-- Windows Forms
-- Windows Presentation Foundation (WPF)
-- WinUI (Both WinUI2 and WinUI3)
-- Flutter
+| Frameworks I have worked | Databases I have worked | Software and Tools I have worked |
+|------------------------------------|-----------------------------------|-----------------------------------|
+| ASP.NET Core (MVC, API, Razor Pages) | SQL Server | Arch Linuz |
+| Blazor (Server/WebAssembly) | MySQL | Android Studio |
+| Angular | PostgreSQL | Azure Pipelines |
+| Flutter | Sqlite | Docker |
+| React | - | Firebase hosting |
+| Windows Forms | - | Git |
+| Windows Presentation Foundation (WPF) | - | GitHub Actions |
+| WinUI (Both WinUI2 and WinUI3) | - | IIS |
+| | | IntelliJ IDEA |
+| | | Jetbrains Rider |
+| | | Oracle VM VirtualBox |
+| | | Postman |
+| | | SQL Server Management Studio |
+| | | Visual Studio |
+| | | Visual Studio Code |
+| | | WebStorm |
+| | | Windows Subsystem for Linux |
 
-### Databases I have worked
-- SQL Server
-- MySQL
-- PostgreSQL
-- Sqlite
-
-### Software and Tools I have worked
-- Arch Linux
-- Android Studio
-- Azure Pipelines
-- Docker
-- Firebase Hosting
-- Git
-- GitHub Actions
-- IIS
-- IntelliJ IDEA
-- Jetbrains Rider
-- Oracle VM VirtualBox
-- Postman
-- SQL Server Management Studio
-- Visual Studio
-- Visual Studio Code
-- WebStorm
-- Windows Subsystem for Linux
-
-<!---
+<!--
 Sathiyaraman/Sathiyaraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
