@@ -1,54 +1,25 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there 👋, I'm Sathiyaraman M
 
-My name is Sathiyaraman M and I recently graduated in Computer Science Engineering from RMK Engineering College. I'm from India, living in Chennai and currently working as Solution Consultant at Sahaj AI. 
+Solution Consultant at [@sahajsoft](https://github.com/sahajsoft).  
 
-I see myself as an ambitious, flamboyant, impulsive kid who is very much in love with .NET and spend most of my time doing projects with ASP.NET Core and Blazor. Though I have worked with React, Flutter and Angular, I just love building scalable and maintainable applications, exclusively and entirely using .NET.
+Started with .NET (ASP.NET Core & Blazor), now expanded to Kotlin, Node.js, Rust, and Flutter. Passionate about building scalable cross-platform apps.
 
-### Languages I have worked
-[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,dart,kotlin,html,css,c,cpp,java,py,bash,powershell)](https://skillicons.dev)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-Other languages include F#, XAML, YAML
+### Key Expertise
+- **Backend/Full-stack**: ASP.NET Core, Blazor, Node.js, Spring Boot (Kotlin)
+- **Mobile/Cross-platform**: Flutter, Kotlin (Android)
+- **Systems/Performance**: Rust
+- **Frontend**: React (Next.js), Angular
+- **Databases**: SQL Server, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, Azure DevOps
 
-### Frameworks I have worked
-- ASP.NET Core (MVC, API, Razor Pages)
-- Blazor (WebAssembly/Server)
-- Flutter
-- Windows Forms
-- Windows Presentation Foundation (WPF)
-- WinUI (Both WinUI2 and WinUI3)
-- Angular
-- React (Mostly Next.js)
-- Spring Boot
-
-### Databases I have worked
-- SQL Server
-- MySQL
-- PostgreSQL
-- Sqlite
-- MongoDB
-
-### Software and Tools I have worked
-- Arch Linux
-- Android Studio
-- Azure Pipelines
-- Docker
-- Firebase Hosting
-- Git
-- GitHub Actions
-- IIS
-- IntelliJ IDEA
-- Jetbrains Rider
-- Node.js
-- Oracle VM VirtualBox
-- Postman
-- PowerShell
-- SQL Server Management Studio
-- Visual Studio
-- Visual Studio Code
-- WebStorm
-- Windows Subsystem for Linux
-
-<!---
-Sathiyaraman/Sathiyaraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Exploring more! Open to collaborations in .NET, Rust, or Kotlin.
